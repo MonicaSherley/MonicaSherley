@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working as a **Jr. Data Engineer**
 
-- 🌱 I’m currently learning **Python**
-
 - 👨‍💻 All of my projects are available at [https://github.com/MonicaSherley](https://github.com/MonicaSherley)
 
 - 💬 Ask me about **Data Science**
